@@ -2,7 +2,7 @@
 
 ### Índice.
 
-- Análisis  de los ERPs elegidos
+- [Análisis  de los ERPs elegidos](Análisis  de los ERPs elegidos)
 - Casos en los que elegirías esos ERPs
 - Tabla Comparativa ERPs
 - Conclusiones para el caso concreto(Elección de ERP y porque)
@@ -10,15 +10,15 @@
 
 ## Análisis  de los ERPs elegidos
 
-1. Odoo
+1. [Odoo](asset/Analisis Odoo.png)
 
    Odoo es un sistema ERP (Planificación de Recursos Empresariales) de código abierto, que integra todas las aplicaciones
    necesarias para gestionar los aspectos de una empresa en una única plataforma modular y escalable.
-2. Sage 200
+2. [Sage 200](asset/Analisis sage.png)
 
    Sage 200 es un sistema de software ERP (Planificación de Recursos Empresariales) modular y en la nube, diseñado para pymes que
    buscan gestionar sus operaciones financieras, comerciales y de recursos humanos de forma unificada y optimizada.
-3. SAP Business One
+3. [SAP Business One](asset/Analisis sap.png)
 
    SAP Business One es un sistema de software de planificación de recursos empresariales (ERP) desarrollado por SAP para ayudar a
    las pequeñas y medianas empresas (PYMES) a gestionar todas sus operaciones en una única plataforma integrada.
