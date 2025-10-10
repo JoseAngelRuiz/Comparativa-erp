@@ -10,34 +10,34 @@
 
 ## Análisis  de los ERPs elegidos
 
-1. [Odoo](asset/Analisis Odoo.png)
+1. [Odoo](https://www.odoo.com/es_EShttps://www.odoo.com/es_ESasset/AnalisisOdoo.p)![](asset/AnalisisOdoo.png)
 
    Odoo es un sistema ERP (Planificación de Recursos Empresariales) de código abierto, que integra todas las aplicaciones
    necesarias para gestionar los aspectos de una empresa en una única plataforma modular y escalable.
-2. [Sage 200](asset/Analisis sage.png)
+2. [Sage 200](https://www.sage.com/es-es/productos/sage-200/)![](asset/AnalisisSage200.png)
 
    Sage 200 es un sistema de software ERP (Planificación de Recursos Empresariales) modular y en la nube, diseñado para pymes que
    buscan gestionar sus operaciones financieras, comerciales y de recursos humanos de forma unificada y optimizada.
-3. [SAP Business One](asset/Analisis sap.png)
+3. [SAP Business One](https://www.sap.com/spain/products/erp/business-one.html)![](asset/Analisissap.png)
 
    SAP Business One es un sistema de software de planificación de recursos empresariales (ERP) desarrollado por SAP para ayudar a
    las pequeñas y medianas empresas (PYMES) a gestionar todas sus operaciones en una única plataforma integrada.
 
 ## Casos en los que elegirías esos ERPs
 
-1. Odoo
+1. [Odoo](asset/Odoo5.png)
 
 Odoo es potente y fácil de usar , ademas de **personalizable , lo que permite usarlo en diferentes sectores comerciales.
 
 Los costes son muy inferiores a los de otros softwares, por lo que también es una opción más económica para las pymes.
 
-2. Sage 200
+2. [Sage 200](asset/Sage2.png)
 
 La versatilidad de Sage 200 es uno de sus puntos más fuertes, permitiendo a las empresas personalizar el sistema de acuerdo con
 sus necesidades específicas.Uno de los aspectos más destacados de Sage 200 es la posibilidad de modularizar su implementación. Las
 empresas pueden elegir los módulos que realmente necesitan.
 
-3. SAP Business One
+3. [SAP Business One](Sap1.png)
 
    Flexibilidad para cualquier negocio, interfaz facil de usar con funcionalidades avanzadas de analisis e integracion,
    automatizacion de tareas repetitivas.
@@ -65,4 +65,4 @@ clientes, reservas, stock y facturación, solucionando el caos actual con una in
 
 ## Fuentes
 
-En la carpeta /asset.
+En la carpeta /asset
